@@ -13,7 +13,7 @@
 
 | # | Exercise | Branch | Status |
 |---|----------|--------|--------|
-| 1 | Student Score Analyzer | `feature/student-scores` | ⏳ Pending |
+| 1 | Student Score Analyzer | `feature/student-scores` | ✅ Done |
 | 2 | Number Pattern Analyzer | `feature/number-analyzer` | ⏳ Pending |
 | 3 | Inventory Manager | `feature/inventory-manager` | ⏳ Pending |
 | 4 | Event Scheduler | `feature/event-scheduler` | ⏳ Pending |
@@ -23,3 +23,11 @@
 | 8 | Style Refactor | `feature/style-refactor` | ⏳ Pending |
 
 ## Outputs
+
+### 1 - Student Score Analyzer
+
+**Concepts:** lists, looping, statistics, list comprehension
+
+**File:** `src/challenge_01_student_scores.py`
+
+![screenshot of student score analyzer](screenshots/challenge_01_output.png)
