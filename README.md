@@ -14,7 +14,7 @@
 | # | Exercise | Branch | Status |
 |---|----------|--------|--------|
 | 1 | Student Score Analyzer | `feature/student-scores` | ✅ Done |
-| 2 | Number Pattern Analyzer | `feature/number-analyzer` | ⏳ Pending |
+| 2 | Number Pattern Analyzer | `feature/number-analyzer` | ✅ Done |
 | 3 | Inventory Manager | `feature/inventory-manager` | ⏳ Pending |
 | 4 | Event Scheduler | `feature/event-scheduler` | ⏳ Pending |
 | 5 | Data Sampler | `feature/data-sampler` | ⏳ Pending |
@@ -31,3 +31,11 @@
 **File:** `src/challenge_01_student_scores.py`
 
 ![screenshot of student score analyzer](screenshots/challenge_01_output.png)
+
+### 2 - Number Pattern Analyzer
+
+**Concepts:** `range()`, `list()`, list comprehension with filtering, slicing, `sum()`
+
+**File:** `src/challenge_02_number_analyzer.py`
+
+![screenshot of number analyzer](screenshots/challenge_02_output.png)
