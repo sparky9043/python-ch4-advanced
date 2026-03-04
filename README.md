@@ -15,7 +15,7 @@
 |---|----------|--------|--------|
 | 1 | Student Score Analyzer | `feature/student-scores` | ✅ Done |
 | 2 | Number Pattern Analyzer | `feature/number-analyzer` | ✅ Done |
-| 3 | Inventory Manager | `feature/inventory-manager` | ⏳ Pending |
+| 3 | Inventory Manager | `feature/inventory-manager` | ✅ Done |
 | 4 | Event Scheduler | `feature/event-scheduler` | ⏳ Pending |
 | 5 | Data Sampler | `feature/data-sampler` | ⏳ Pending |
 | 6 | Restaurant Menu v2 | `feature/restaurant-menu-v2` | ⏳ Pending |
@@ -39,3 +39,12 @@
 **File:** `src/challenge_02_number_analyzer.py`
 
 ![screenshot of number analyzer](screenshots/challenge_02_output.png)
+
+### 3 - Inventory Manager
+
+**Concepts:** list copying, slicing, `for` loop, `len()`, mutating lists
+
+**File:** `src/challenge_03_inventory_manager.py`
+
+![screenshot of number analyzer](screenshots/challenge_03_output.png)
+
